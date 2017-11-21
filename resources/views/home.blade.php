@@ -67,13 +67,13 @@
                     
                 </div>
                 @include('partials.navigation')
-            
+            </section>
             <!-- About Section -->
             <section class="page-section" id="about">
                 <div class="container relative">
                     
                     <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-                        About Studio
+                        About Waruq
                         
                         <a href="#" class="section-more right">More about us <i class="fa fa-angle-right"></i></a>
                         
@@ -111,11 +111,12 @@
                             </div>
                             
                             <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum nibh volutpat, accumsan purus. 
+                                In Kashmiri dialect the word “Waruq” means a Page; a medium to shape ideas into reality. We at Waruq are driven by sole aim of attaining utter customer satisfaction by rendering solutions that are concieved to exceed expectations of our esteemed clientele.   
                             </div>
                             
                             <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                Etiam sit amet fringilla lacus. Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. Donec vel ultricies purus. Nam dictum sem, eu aliquam.
+                                Equipped highly advanced technological means, Waruq epitomizes the amalgamation of unadulterated creativity and innovation that is backed by contemporary improvisation of technology.
+                               Our area of expertise spans over modern day technologies in the world of Web and Software Development.
                             </div>
                             
                         </div>
@@ -156,7 +157,7 @@
                                     <span class="icon-desktop"></span>
                                 </div>
                                 
-                                Web Design
+                                Web Development
                             </a>
                         </li>
                         <li>
@@ -176,7 +177,7 @@
                                     <span class="icon-gears"></span>
                                 </div>
                                 
-                                Development
+                                 App Development
                             </a>
                         </li>
                         <li>
@@ -186,7 +187,8 @@
                                     <span class="icon-camera"></span>
                                 </div>
                                 
-                                Photography
+                               
+                              UI Development Solutions
                             </a>
                         </li>
                     </ul>
@@ -203,24 +205,18 @@
                                     <div class="col-md-4 mb-md-40 mb-xs-30">
                                         <blockquote class="mb-0">
                                             <p>
-                                                A&nbsp;brand for a&nbsp;company is&nbsp;like a&nbsp;reputation 
-                                                for a&nbsp;person. You earn reputation by&nbsp;trying to&nbsp;do&nbsp;hard 
-                                                things well.
+                                              Let your brand do the talking. We have an excellent team of branding consultants, who know how to generate the spark that will keep up the flame of your brand’s name in your customer’s mind glowing forever.
                                             </p>
-                                            <footer>
+                                           <!--  <footer>
                                                 Jeff Bezos
-                                            </footer>
+                                            </footer> -->
                                         </blockquote>
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum 
-                                        volutpat nibh, accumsan purus. Lorem ipsum dolor sit semper amet, consectetur adipiscing elit. 
-                                        In maximus ligula metus pellentesque mattis.  
+                                        Your brand is the message your business is trying to communicate with your people. It is imperative that you devise a perfect brand identity that will fit in your business message, intention and goals such that it will stay etched to your consumer’s mind. This is what exactly we do at Waruq. Crafting branding ideas that will connect people and businesses..  
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Etiam sit amet fringilla lacus. 
-                                        Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. 
-                                        Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. 
+                                       A perfectly designed logo is the first step to ensuring a beautiful brand identity is established with your consumers. Our team of brand design experts will take into account your business requirements and customize a perfect logo for you.
                                     </div>
                                 </div>
                             </div>
@@ -236,23 +232,18 @@
                                     <div class="col-md-4 mb-md-40 mb-xs-30">
                                         <blockquote class="mb-0">
                                             <p>
-                                                It&nbsp;doesn&rsquo;t matter how many times&nbsp;I have to&nbsp;click, as&nbsp;long 
-                                                as&nbsp;each click is&nbsp;a&nbsp;mindless, unambiguous choice.
+                                              Waruq is a emerging web design and web development company based in India, offering all kinds of website-based services. We implement all the major tools and trends that will make your website design aesthetic and professional, while ensuring a great user experience.
                                             </p>
-                                            <footer>
+                                          <!--   <footer>
                                                 Steve Krug
-                                            </footer>
+                                            </footer> -->
                                         </blockquote>
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Cras mi tortor, laoreet id ornare et, accumsan non magna. Maecenas vulputate accumsan velit. 
-                                        Curabitur a nulla ex. Nam a tincidunt ante. Vitae gravida turpis. Vestibulum varius
-                                        nulla non nulla scelerisque tristique.
+                                       Our expert in-house team uses cutting edge technologies to build custom web applications that are stunning, robust, secure and scalable and we follow agile development methodology to ensure flexibility and faster delivery.
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Mauris id viverra augue, eu porttitor diam. Praesent faucibus est a interdum elementum. 
-                                        Nam varius at ipsum id dignissim. Nam a tincidunt ante lorem. Pellentesque suscipit ante
-                                        at ullamcorper pulvinar neque porttitor. 
+                                       We are experts at designing and creating content management systems for the web. We analyze and research the market trends and collaborate these with your business requirements to mold a perfect CMS framework for your business.
                                     </div>
                                 </div>
                             </div>
@@ -268,23 +259,19 @@
                                     <div class="col-md-4 mb-md-40 mb-xs-30">
                                         <blockquote class="mb-0">
                                             <p>
-                                                Never fall in&nbsp;love with an&nbsp;idea. They&rsquo;re whores. If&nbsp;the one you&rsquo;re with isn&rsquo;t doing the job, there&rsquo;s always another.
+                                              We provide the best graphic design solutions that are customized to meet your brand requirements.
                                             </p>
-                                            <footer>
+                                            <!-- <footer>
                                                 Chip Kidd
-                                            </footer>
+                                            </footer> -->
                                         </blockquote>
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Lorem ipsum dolor sit semper amet, consectetur adipiscing elit. In maximus ligula metus pellentesque
-                                        mattis. Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Praesent sed nisi eleifend, 
-                                        fermentum orci amet, iaculis libero. 
+                                         Incorporating in the excellence and aesthetics of visual communication and all the aspects of sensory elements, including color, typography, space, picture, etc. we bring you outstanding graphic designs.
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
                                          
-                                        Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Etiam sit amet 
-                                        fringilla lacus. Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id&nbsp;dolor 
-                                        consectetur fermentum volutpat nibh, accumsan purus. 
+                                      Waruq is capable of creating killer Graphic Designs. Ensuring that the fact that  people can’t take their eyes off. Explore creativity at its best only at Waruq. 
                                     </div>
                                 </div>
                             </div>
@@ -300,22 +287,19 @@
                                     <div class="col-md-4 mb-md-40 mb-xs-30">
                                         <blockquote class="mb-0">
                                             <p>
-                                                All that is&nbsp;valuable in&nbsp;human society depends upon the opportunity for development accorded the individual.
+                                               Creating seamless and intuitive mobile applications that offer the best user experience is what our team of mobile app development professionals at Acodez are experts at. We design all kinds of mobile apps for iOS, Android, Windows, etc. depending on your business and end-user requirements.
                                             </p>
-                                            <footer>
+                                           <!--  <footer>
                                                 Albert Einstein
-                                            </footer>
+                                            </footer> -->
                                         </blockquote>
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Fusce hendrerit vitae nunc id gravida. Donec euismod quis ante at mattis. Mauris dictum ante sit 
-                                        amet enim interdum semper. Vestibulum odio justo, faucibus et dictum eu, malesuada nec neque.
-                                        Maecenas  volutpat, diam enim sagittis. 
+                                       We introduce a specific strategy on the basis of which the mobile app design and development are executed. Our team of mobile app development consultants coordinate with the UX and UI design team to bring about the best user experience while offering an excellent interface to the end-users that is intuition-driven. The latest industry trends and technologies are explored, along with tried-and-proven techniques in our mobile app designs ensuring that a smooth, simple and aesthetic flow is accomplished in the final prototype.
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Sed id dolor consectetur fermentum 
-                                        volutpat nibh, accumsan purus. Lorem ipsum dolor sit semper amet, consectetur adipiscing elit. 
-                                        Inmed maximus ligula metus pellentesque.
+                                      Developing smooth, reliable, scalable and robust apps within the specified time frame, ensuring 100% customer satisfaction
+                                      We have an expert team of mobile app development professionals specializing in Android app design and development.
                                     </div>
                                 </div>
                             </div>
@@ -331,23 +315,18 @@
                                     <div class="col-md-4 mb-md-40 mb-xs-30">
                                         <blockquote class="mb-0">
                                             <p>
-                                                Photography is&nbsp;the simplest thing in&nbsp;the world, but it&nbsp;is&nbsp;incredibly 
-                                                complicated to&nbsp;make it&nbsp;really work.
+                                              Enterprise-wide solutions transforming highly complex business requirements into simplified user interfaces bringing about a widespread user engagement is what we promise as part of our UI solutions.
                                             </p>
-                                            <footer>
+                                          <!--   <footer>
                                                 Martin Parr
-                                            </footer>
+                                            </footer> -->
                                         </blockquote>
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Etiam sit amet fringilla lacus. 
-                                        Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. 
-                                        Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. 
+                                       Transforming highly complex interface designs into simplified, usable, front-end interfaces and bringing about a widespread user engagement is what we promise as part of our UI Development solutions.
                                     </div>
                                     <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-                                        Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum 
-                                        volutpat nibh, accumsan purus. Lorem ipsum dolor sit semper amet, consectetur adipiscing elit. 
-                                        In maximus ligula metus pellentesque mattis. 
+                                     We use highly advanced technologies like Angular 2, React, Semantic UI, Vue js etc to create powerful UIs that'd take your application to the next level. Our expertise in UX design help us develop highly user-friendly and intuitive UIs.
                                     </div>
                                 </div>
                             </div>
@@ -373,26 +352,25 @@
                     
                     <div class="row">
                         
-                        <div class="col-sm-6">
+                        <div class="col-sm-12">
                             
                             <div class="mt-140 mt-lg-80 mb-140 mb-lg-80">
                                 <div class="banner-content">
-                                    <h3 class="banner-heading font-alt">Looking for exclusive digital services?</h3>
+                                    <h3 class="banner-heading font-alt">Let's talk about what we can build together</h3>
                                     <div class="banner-decription">
-                                        Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor. 
-                                        Integer non dapibus diam, ac eleifend lectus.
+                                      Whatever may be your requirement - be it a simple website design, a complex data driven web application development, an ecommerce website, a native or cross platform mobile app development, a logo and brand identity design, a video production or a full fledged digital marketing campaign - we have a solution for you.
                                     </div>
                                     <div class="local-scroll">
-                                        <a href="pages-contact-1.html" class="btn btn-mod btn-w btn-medium btn-round">Lets talk</a>
+                                        <a href="/contact" class="btn btn-mod btn-w btn-medium btn-round">Lets talk</a>
                                     </div>
                                 </div>
                             </div>
                             
                         </div>
                         
-                        <div class="col-sm-6 banner-image wow fadeInUp">
+                      <!--   <div class="col-sm-6 banner-image wow fadeInUp">
                             <img src="images/promo-1.png" alt="" />
-                        </div>
+                        </div> -->
                         
                     </div>
                     
@@ -759,98 +737,7 @@
             <!-- End Testimonials Section -->
             
             
-            <!-- Shop Section -->
-            <section class="page-section">
-                <div class="container relative">
-                    
-                    <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-                        Bestsellers
-                        
-                        <a href="shop-columns-3col.html" class="section-more right">Our Shop <i class="fa fa-angle-right"></i></a>
-                        
-                    </h2>
-                    
-                    <div class="row multi-columns-row">
-                    
-                        <!-- Shop Item -->
-                        <div class="col-md-3 col-lg-3 mb-60 mb-xs-40 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
-                            <div class="post-prev-img">
-                                <a href="shop-single.html"><img src="images/shop/shop-prev-1.jpg" alt="" /></a>
-                                <div class="intro-label">
-                                    <span class="label label-danger bg-red">Sale</span>
-                                </div>
-                            </div>
-                            <div class="post-prev-title font-alt align-center">
-                                <a href="shop-single.html">G-Star Polo Applique Jersey</a>
-                            </div>
-                            <div class="post-prev-text align-center">
-                                <del>
-                                    $150.00
-                                </del>
-                                &nbsp;<strong>$94.75</strong>
-                            </div>
-                            <div class="post-prev-more align-center">
-                                <a href="#" class="btn btn-mod btn-gray btn-round"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                            </div>
-                        </div>
-                        <!-- End Shop Item -->
-                        
-                        <!-- Shop Item -->
-                        <div class="col-md-3 col-lg-3 mb-60 mb-xs-40 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
-                            <div class="post-prev-img">
-                                <a href="shop-single.html"><img src="images/shop/shop-prev-2.jpg" alt="" /></a>
-                            </div>
-                            <div class="post-prev-title font-alt align-center">
-                                <a href="shop-single.html">Only & Sons Pique Polo Shirt</a>
-                            </div>
-                            <div class="post-prev-text align-center">
-                                <strong>$28.99</strong>
-                            </div>
-                            <div class="post-prev-more align-center">
-                                <a href="#" class="btn btn-mod btn-gray btn-round"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                            </div>
-                        </div>
-                        <!-- End Shop Item -->
-                        
-                        <!-- Shop Item -->
-                        <div class="col-md-3 col-lg-3 mb-60 mb-xs-40 wow fadeIn" data-wow-delay="0.3s" data-wow-duration="2s">
-                            <div class="post-prev-img">
-                                <a href="shop-single.html"><img src="images/shop/shop-prev-3.jpg" alt="" /></a>
-                            </div>
-                            <div class="post-prev-title font-alt align-center">
-                                <a href="shop-single.html">Longline Long Sleeve</a>
-                            </div>
-                            <div class="post-prev-text align-center">
-                                <strong>$39.99</strong>
-                            </div>
-                            <div class="post-prev-more align-center">
-                                <a href="#" class="btn btn-mod btn-gray btn-round"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                            </div>
-                        </div>
-                        <!-- End Shop Item -->
-                        
-                        <!-- Shop Item -->
-                        <div class="col-md-3 col-lg-3 mb-60 mb-xs-40 wow fadeIn" data-wow-delay="0.4s" data-wow-duration="2s">
-                            <div class="post-prev-img">
-                                <a href="shop-single.html"><img src="images/shop/shop-prev-4.jpg" alt="" /></a>
-                            </div>
-                            <div class="post-prev-title font-alt align-center">
-                                <a href="shop-single.html">Polo Shirt With Floral Sleeves</a>
-                            </div>
-                            <div class="post-prev-text align-center">
-                                <strong>$85.99</strong>
-                            </div>
-                            <div class="post-prev-more align-center">
-                                <a href="#" class="btn btn-mod btn-gray btn-round"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                            </div>
-                        </div>
-                        <!-- End Shop Item -->
-                    
-                    </div>
-                    
-                </div>
-            </section>
-            <!-- End Shop Section -->
+          
             
             
             <!-- Divider -->
@@ -861,145 +748,7 @@
          
             
             
-            <!-- Section -->
-            <section class="page-section bg-dark-alfa-70 bg-scroll" data-background="images/full-width-images/section-bg-16.jpg">
-                <div class="container relative">
-                    
-                    <!-- Features Grid -->
-                    <div class="item-carousel owl-carousel">
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class=" icon-hotairballoon"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We're Creative
-                            </div>
-                            <div class="features-descr">
-                                We find the best ideas for you
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-clock"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We’re Punctual
-                            </div>
-                            <div class="features-descr">
-                                We always do your tasks on time
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-lightbulb"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We have magic
-                            </div>
-                            <div class="features-descr">
-                                You will be delighted
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-wine"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We're Creative
-                            </div>
-                            <div class="features-descr">
-                                We find the best ideas for you
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-tools"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We’re Punctual
-                            </div>
-                            <div class="features-descr">
-                                We always do your tasks on time
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-gears"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We have magic
-                            </div>
-                            <div class="features-descr">
-                                You will be delighted
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-browser"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We're Creative
-                            </div>
-                            <div class="features-descr">
-                                We find the best ideas for you
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-wallet"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We’re Punctual
-                            </div>
-                            <div class="features-descr">
-                                We always do your tasks on time
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                        <!-- Features Item -->
-                        <div class="features-item">
-                            <div class="features-icon">
-                                <span class="icon-document"></span>
-                            </div>
-                            <div class="features-title font-alt">
-                                We have magic
-                            </div>
-                            <div class="features-descr">
-                                You will be delighted
-                            </div>
-                        </div>
-                        <!-- End Features Item -->
-                        
-                    </div>
-                    <!-- Features Grid -->
-                
-                </div>
-            </section>
-            <!-- End Section -->
+           
             
             
             <!-- Blog Section -->

@@ -34,7 +34,7 @@
         <div class="page" id="top">
             
             <!-- Navigation panel -->
-             @include('partials.navigation')
+             @include('partials.nav')
             <!-- End Navigation panel -->
             
             

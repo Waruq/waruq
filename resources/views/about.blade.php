@@ -76,10 +76,11 @@
                                 <h4 class="mt-0 font-alt">Who we are?</h4>
                                 
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas  volutpat, diam enim sagittis quam. 
+                                Waruq is one of the emerging software/web development companies in J&K, India.
+                                  Our company is sincerely working for our client value and satisfaction. We are always committed to deliver enhanced value to our customers with credibility and commitment. To guarantee the effective and efficient delivery of services, our company consists of dedicated and highly skilled programmers and website designers who are mainly working on the latest technologies to help our customers, succeed.
                                 </p>
                                 <p>
-                                    Etiam sit amet fringilla lacus. Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero.
+                                   We constantly improve the performance capabilities of our employees with a grand ambition to be a pioneer in commercial world to keep up with the inevitable. As a result, we offer customized web application with best delivery and support providing superior quality products and effective cost. We aim for the success of all the business connected with us. Thus, we listen to them, collaborate with them and innovate together with them for we turn client–vendor transactions into meaningful and valuable partnerships.
                                 </p>
                             </div>
                             
@@ -112,7 +113,7 @@
                                 <!-- Bar Item -->
                                 <div class="progress tpl-progress">
                                     <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                                        Photo, % <span>75</span>
+                                        UI Developmet Solutions, % <span>75</span>
                                     </div>
                                 </div>
                                 <!-- End Bar Item -->
@@ -130,7 +131,7 @@
                             <!-- Counter Item -->
                             <div class="col-xs-6 col-sm-3">
                                 <div class="count-number">
-                                    320
+                                   2
                                 </div>
                                 <div class="count-descr font-alt">
                                     <i class="fa fa-briefcase"></i>
@@ -142,7 +143,7 @@
                             <!-- Counter Item -->
                             <div class="col-xs-6 col-sm-3">
                                 <div class="count-number">
-                                    150
+                                   2
                                 </div>
                                 <div class="count-descr font-alt">
                                     <i class="fa fa-heart"></i>
@@ -154,7 +155,7 @@
                             <!-- Counter Item -->
                             <div class="col-xs-6 col-sm-3">
                                 <div class="count-number">
-                                    933
+                                    10
                                 </div>
                                 <div class="count-descr font-alt">
                                     <i class="fa fa-coffee"></i>
@@ -166,7 +167,7 @@
                             <!-- Counter Item -->
                             <div class="col-xs-6 col-sm-3">
                                 <div class="count-number">
-                                    975
+                                    4
                                 </div>
                                 <div class="count-descr font-alt">
                                     <i class="fa fa-lightbulb-o"></i>
@@ -181,173 +182,7 @@
                     
                     
                     <!-- Team -->
-                    <div class="row multi-columns-row">
-                        
-                        <!-- Team Item -->
-                        <div class="col-sm-6 col-md-3 col-lg-3 mb-sm-30 wow fadeInUp">
-                            <div class="team-item">
-                                
-                                <div class="team-item-image">
-                                    
-                                    <img src="images/team/team-1.jpg" alt="" />
-                                    
-                                    <div class="team-item-detail">
-                                        
-                                        <h4 class="font-alt normal">Hello & Welcome!</h4>
-                                        
-                                        <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
-                                        </p>
-                                        
-                                        <div class="team-social-links">
-                                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                                
-                                <div class="team-item-descr font-alt">
-                                    
-                                    <div class="team-item-name">
-                                        Thomas Rhythm 
-                                    </div>
-                                    
-                                    <div class="team-item-role">
-                                        Art Director
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <!-- End Team Item -->
-                        
-                        <!-- Team Item -->
-                        <div class="col-sm-6 col-md-3 col-lg-3 mb-md-30 wow fadeInUp" data-wow-delay="0.1s">
-                            <div class="team-item">
-                                
-                                <div class="team-item-image">
-                                    
-                                    <img src="images/team/team-2.jpg" alt="" />
-                                    
-                                    <div class="team-item-detail">
-                                        
-                                        <h4 class="font-alt normal">Nice to meet!</h4>
-                                        
-                                        <p>
-                                            Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
-                                        </p>
-                                        
-                                        <div class="team-social-links">
-                                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                                
-                                <div class="team-item-descr font-alt">
-                                    
-                                    <div class="team-item-name">
-                                        Marta Laning
-                                    </div>
-                                    
-                                    <div class="team-item-role">
-                                        Web engineer
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <!-- End Team Item -->
-                        
-                        <!-- Team Item -->
-                        <div class="col-sm-6 col-md-3 col-lg-3 mb-md-30 wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="team-item">
-                                
-                                <div class="team-item-image">
-                                    
-                                    <img src="images/team/team-3.jpg" alt="" />
-                                    
-                                    <div class="team-item-detail">
-                                        
-                                        <h4 class="font-alt normal">Whats Up!</h4>
-                                        
-                                        <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
-                                        </p>
-                                        
-                                        <div class="team-social-links">
-                                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                                
-                                <div class="team-item-descr font-alt">
-                                    
-                                    <div class="team-item-name">
-                                        Steve ANDERS
-                                    </div>
-                                    
-                                    <div class="team-item-role">
-                                        Developer
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <!-- End Team Item -->
-                        
-                        <!-- Team Item -->
-                        <div class="col-sm-6 col-md-3 col-lg-3 mb-md-30 wow fadeInUp" data-wow-delay="0.3s">
-                            <div class="team-item">
-                                
-                                <div class="team-item-image">
-                                    
-                                    <img src="images/team/team-4.jpg" alt="" />
-                                    
-                                    <div class="team-item-detail">
-                                        
-                                        <h4 class="font-alt normal">Hi to all!</h4>
-                                        
-                                        <p>
-                                            Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
-                                        </p>
-                                        
-                                        <div class="team-social-links">
-                                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                                            <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                                
-                                <div class="team-item-descr font-alt">
-                                    
-                                    <div class="team-item-name">
-                                        Emma Connor
-                                    </div>
-                                    
-                                    <div class="team-item-role">
-                                        Creative Director
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <!-- End Team Item -->
-                        
-                    </div>
+                    
                     <!-- End Team -->
                     
                 
@@ -544,24 +379,21 @@
                                 </ul>
                             </div>
                             <!-- End Nav Tabs -->
-							
+                            
                             <!-- Tab panes -->
                             <div class="tab-content tpl-minimal-tabs-cont section-text align-center">
                                 
                                 <div class="tab-pane fade in active" id="mini-one">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis lacus augue, a hendrerit leo tristique vitae. Mauris non ipsum molestie, sagittis elit ac, vulputate odio. Fusce quam augue, gravida tincidunt dui nec, tempor iaculis justo.
-									Aliquam tortor leo, pharetra non congue sit amet, bibendum sit amet enim.
+                                   we are on the path of connecting more people into the new era of digital world to make people more smarter and happier. Everyone who gets the benefits of Yarddiant service should have the ability to handle every digital aspect.
                                 </div>
                                 
                                 <div class="tab-pane fade" id="mini-two">
-                                    Nam porta elementum tortor, eget tempor orci ullamcorper eget. Aliquam fermentum sem non vulputate dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla at porttitor massa.
-                                    Aliquam tortor leo, pharetra non congue sit amet, bibendum sit amet enim.
-								</div>
+                                  We work with immense passion and dedication to create a digital connection with the people and The areas connected with them. Every time we produce our best functional result to lead a socially-conscious business.
+                                </div>
                                 
                                 <div class="tab-pane fade" id="mini-three">
-                                    Pellentesque sed vehicula velit, vitae vulputate velit. Morbi nec porta augue, et dignissim enim. Vivamus suscipit, lorem vitae rhoncus pharetra, erat nisl scelerisque magna, ut mollis dui eros eget libero. Vivamus ut ornare tellus.
-                                    Aliquam tortor leo, pharetra non congue sit amet, bibendum sit amet enim.
-								</div>
+                                    Ideas are the bedrock on which great foundations are built.
+                                </div>
                                 
                             </div>
                             
@@ -584,7 +416,7 @@
                     <div class="align-center">
                         <h3 class="banner-heading font-alt">Want to discuss your new project?</h3>
                         <div>
-                            <a href="default.htm" class="btn btn-mod btn-w btn-medium btn-round">Lets tallk</a>
+                            <a href="/contact" class="btn btn-mod btn-w btn-medium btn-round">Lets tallk</a>
                         </div>
                     </div>
                     
