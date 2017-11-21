@@ -38,4 +38,4 @@ Route::get('/contact', function () {
 Route::post('/contact',[ 
 	'uses' => 'ContactController@contact',
     'as' => 'contact'
-]);
+]);     
