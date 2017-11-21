@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Rhythm &mdash; One & Multi Page Creative Theme</title>
+        <title>Waruq::Blog</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta charset="utf-8">

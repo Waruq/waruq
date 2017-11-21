@@ -4,7 +4,7 @@
                 <div class="full-wrapper relative clearfix">
                     <!-- Logo ( * your text or image into link tag *) -->
                     <div class="nav-logo-wrap local-scroll">
-                        <a href="mp-index.html" class="logo">
+                        <a href="/" class="logo">
                             <img src="images/logo-white.png" alt="" />
                         </a>
                     </div>
