@@ -38,15 +38,15 @@
                             <!-- End Item With Sub -->
 							
 							<!-- Item With Sub -->
-                            <li>
+                           <!--  <li>
                                 <a href="/team" class="mn-has-sub ">Team </a>                        
-                            </li>
+                            </li> -->
                             <!-- End Item With Sub -->
 							
 							<!-- Item With Sub -->
-                            <li>
+                         <!--    <li>
                                 <a href="/gallery" class="mn-has-sub ">Gallery </a>                        
-                            </li>
+                            </li> -->
                             <!-- End Item With Sub -->
 							
 							<!-- Item With Sub -->
@@ -62,21 +62,21 @@
             
                             
                             <!-- Item With Sub -->
-                            <li>
+                         <!--    <li>
                                 <a href="/profile" class="mn-has-sub">Portfolio </a>
                                 
                           
                                 
-                            </li>
+                            </li> -->
                             <!-- End Item With Sub -->
                             
                             <!-- Item With Sub -->
-                            <li>
+                          <!--   <li>
                                 <a href="/blog" class="mn-has-sub">Blog </a>
                                 
                               
                                 
-                            </li>
+                            </li> -->
                             <!-- End Item With Sub -->
                             
                        
