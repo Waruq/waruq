@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Waruq</title>
+        <title>Waruq::Services</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta charset="utf-8">
