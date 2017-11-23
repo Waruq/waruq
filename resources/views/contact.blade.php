@@ -103,7 +103,7 @@
                                             Call Us
                                         </div>
                                         <div class="ci-text">
-                                            +61 3 8376 6284
+                                            7006926109
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@
                                             Address
                                         </div>
                                         <div class="ci-text">
-                                            245 Quigley Blvd, Ste K
+                                           Maisuma Near Professional Couriers, Lal Chowk, Srinagar 190001
                                         </div>
                                     </div>
                                 </div>
