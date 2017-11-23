@@ -17,7 +17,7 @@
                             
                             <!-- Item With Sub -->
                             <li>
-                                <a href="/home" class="mn-has-sub active">Home </a>
+                                <a href="/" class="mn-has-sub active">Home </a>
                                 
                             
                                 

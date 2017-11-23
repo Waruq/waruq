@@ -39,21 +39,21 @@
             
             
             <!-- Head Section -->
-            <section class="small-section bg-gray-lighter">
+            <section class="small-section bg-dark-lighter">
                 <div class="relative container align-left">
                     
                     <div class="row">
                         
                         <div class="col-md-8">
                             <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Services</h1>
-                            <div class="hs-line-4 font-alt black">
+                            <div class="hs-line-4 font-alt ">
                                 We provide the best digital solutions
                             </div>
                         </div>
                         
                         <div class="col-md-4 mt-30">
                             <div class="mod-breadcrumbs font-alt align-right">
-                                <a href="#">Home</a>&nbsp;/&nbsp;<a href="#">Pages</a>&nbsp;/&nbsp;<span>Services</span>
+                                <a href="#">Home</a>&nbsp;/&nbsp;<span>Services</span>
                             </div>
                             
                         </div>
@@ -125,66 +125,7 @@
                    <!-- End Divider -->
             
                    
-                   <div class="row multi-columns-row">
-                        
-                        <!-- Post Item -->
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
-                            
-                            <div class="post-prev-img">
-                                <img src="images/blog/post-prev-1.jpg" alt="" />
-                            </div>
-                            
-                            <div class="post-prev-title font-alt">
-                                Digital Branding
-                            </div>
-                            
-                            <div class="post-prev-text">
-                                Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor 
-                                consectetur fermentum nibh volutpat, accumsan purus. 
-                            </div>
-                            
-                        </div>
-                        <!-- End Post Item -->
-                        
-                        <!-- Post Item -->
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
-                            
-                            <div class="post-prev-img">
-                                <img src="images/blog/post-prev-2.jpg" alt="" />
-                            </div>
-                            
-                            <div class="post-prev-title font-alt">
-                                Design & Development
-                            </div>
-                            
-                            <div class="post-prev-text">
-                                Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor 
-                                consectetur fermentum nibh volutpat, accumsan purus. 
-                            </div>
-                            
-                        </div>
-                        <!-- End Post Item -->
-                        
-                        <!-- Post Item -->
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.3s" data-wow-duration="2s">
-                            
-                            <div class="post-prev-img">
-                                <img src="images/blog/post-prev-3.jpg" alt="" />
-                            </div>
-                            
-                            <div class="post-prev-title font-alt">
-                                Marketing
-                            </div>
-                            
-                            <div class="post-prev-text">
-                                Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor 
-                                consectetur fermentum nibh volutpat, accumsan purus. 
-                            </div>
-                            
-                        </div>
-                        <!-- End Post Item -->
-                        
-                    </div>
+                  
                         
                 </div>
             </section>

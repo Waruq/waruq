@@ -1,4 +1,4 @@
-z<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Waruq::About</title>
@@ -34,7 +34,7 @@ z<!DOCTYPE html>
         <div class="page" id="top">
             
             <!-- Navigation panel -->
-             @include('partials.navigation')
+             @include('partials.nav')
             <!-- End Navigation panel -->
             
             
@@ -47,13 +47,13 @@ z<!DOCTYPE html>
                         <div class="col-md-8">
                             <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">About Us</h1>
                             <div class="hs-line-4 font-alt">
-                                Extraordinary art team &&nbsp;creative minimalism lovers
+                                Extraordinary work ethic to deliver creative results
                             </div>
                         </div>
                         
                         <div class="col-md-4 mt-30">
                             <div class="mod-breadcrumbs font-alt align-right">
-                                <a href="#">Home</a>&nbsp;/&nbsp;<a href="#">Pages</a>&nbsp;/&nbsp;<span>About Us</span>
+                                <a href="#">Home</a>&nbsp;/&nbsp;<span>About Us</span>
                             </div>
                             
                         </div>

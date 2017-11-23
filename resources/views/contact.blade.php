@@ -34,7 +34,7 @@
         <div class="page" id="top">
             
             <!-- Navigation panel -->
-             @include('partials.navigation')
+             @include('partials.nav')
             <!-- End Navigation panel -->
             
             
@@ -47,13 +47,13 @@
                         <div class="col-md-8">
                             <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Contact</h1>
                             <div class="hs-line-4 font-alt">
-                                We’re always open to talk to good people
+                              Contact us for quote!
                             </div>
                         </div>
                         
                         <div class="col-md-4 mt-30">
                             <div class="mod-breadcrumbs font-alt align-right">
-                                <a href="#">Home</a>&nbsp;/&nbsp;<a href="#">Pages</a>&nbsp;/&nbsp;<span>Contact</span>
+                                <a href="/home">Home</a>&nbsp;/&nbsp;<span>Contact</span>
                             </div>
                             
                         </div>
@@ -62,24 +62,22 @@
                 </div>
             </section>
             <!-- End Head Section -->
+
                                 @if(Session::has('success')) 
-                     <div class="alert alert-dismissible alert-success">
-                      <button type="button" class="close" data-dismiss="alert">&times;</button>
-                      <strong>{{Session::get('success')}}</strong>
-                     </div> 
+                 
+                     <div class="alert success">
+                                <i class="fa fa-lg fa-check-circle-o"></i> {{Session::get('success')}}
+                     </div>
                      @endif
                      @if(count($errors->all()))
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="alert alert-danger">
-                                <ul>
+                   
+                              
                                     @foreach($errors->all() as $error)
-                                        <li>{{ $error }}</li>
+                              <div class="alert error">
+                                <i class="fa fa-lg  fa-times-circle"></i> {{ $error }}
+                              </div>         
                                     @endforeach
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                               
                     @endif
             
             <!-- Contact Section -->
@@ -137,7 +135,7 @@
                                             Email
                                         </div>
                                         <div class="ci-text">
-                                            <a href="mailto:support@bestlooker.pro">support@bestlooker.pro</a>
+                                            <a href="mailto:info@waruq.com">info@waruq.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -223,7 +221,7 @@
             <!-- Google Map -->
             <div class="google-map">
                 
-                <div data-address="Belt Parkway, Queens, NY, United States" id="map-canvas"></div>
+                <div data-address="Maisuma ,Lal Chowk, Srinagar,J&K, India" id="map-canvas"></div>
                 
                 <div class="map-section">
                     
@@ -315,7 +313,7 @@
         <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
         <!-- Replace test API Key "AIzaSyAZsDkJFLS0b59q7cmW0EprwfcfUA8d9dg" with your own one below 
         **** You can get API Key here - https://developers.google.com/maps/documentation/javascript/get-api-key -->
-        <script type="text/javascript" src="../../https@maps.googleapis.com/maps/api/js@key=AIzaSyAZsDkJFLS0b59q7cmW0EprwfcfUA8d9dg"></script>
+       <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZsDkJFLS0b59q7cmW0EprwfcfUA8d9dg"></script>
         <script type="text/javascript" src="js/gmap3.min.js"></script>
         <script type="text/javascript" src="js/wow.min.js"></script>
         <script type="text/javascript" src="js/masonry.pkgd.min.js"></script>

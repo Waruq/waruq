@@ -184,7 +184,7 @@
                             <a href="#service-photography" data-toggle="tab">
                                 
                                 <div class="alt-tabs-icon">
-                                    <span class="icon-camera"></span>
+                                    <span class=" icon-phone"></span>
                                 </div>
                                 
                                
@@ -446,7 +446,7 @@
             
             
             <!-- Portfolio Section -->
-            <section class="page-section pb-0" id="portfolio">
+           <!--  <section class="page-section pb-0" id="portfolio">
                 <div class="relative">
                     
                     <h2 class="section-title font-alt mb-70 mb-sm-40">
@@ -463,13 +463,13 @@
                                 
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                     <!-- Works Grid -->
-                    <ul class="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles" id="work-grid">
+                  <!--   <ul class="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles" id="work-grid"> -->
                         
                         <!-- Work Item (External Page) -->
-                        <li class="work-item">
+                      <!--   <li class="work-item">
                             <a href="portfolio-single-1.html" class="work-ext-link">
                                 <div class="work-img">
                                     <img class="work-img" src="images/portfolio/projects-13.jpg" alt="Work" />
@@ -481,11 +481,11 @@
                                     </div>
                                 </div>
                             </a>
-                        </li>
+                        </li> -->
                         <!-- End Work Item -->
                         
                         <!-- Work Item (External Page) -->
-                        <li class="work-item">
+                       <!--  <li class="work-item">
                             <a href="portfolio-single-1.html" class="work-ext-link">
                                 <div class="work-img">
                                     <img class="work-img" src="images/portfolio/projects-14.jpg" alt="Work" />
@@ -497,11 +497,11 @@
                                     </div>
                                 </div>
                             </a>
-                        </li>
+                        </li> -->
                         <!-- End Work Item -->
                         
                         <!-- Work Item (External Page) -->
-                        <li class="work-item">
+                     <!--    <li class="work-item">
                             <a href="portfolio-single-1.html" class="work-ext-link">
                                 <div class="work-img">
                                     <img class="work-img" src="images/portfolio/projects-6.jpg" alt="Work" />
@@ -513,14 +513,14 @@
                                     </div>
                                 </div>
                             </a>
-                        </li>
+                        </li> -->
                         <!-- End Work Item -->
                         
-                    </ul>
+                 <!--    </ul> -->
                     <!-- End Works Grid -->
-                    
+            <!--         
                 </div>
-            </section>
+            </section> -->
             <!-- End Portfolio Section -->
             
             
@@ -752,7 +752,7 @@
             
             
             <!-- Blog Section -->
-            <section class="page-section" id="news">
+         <!--    <section class="page-section" id="news">
                 <div class="container relative">
                     
                     <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
@@ -762,10 +762,10 @@
                         
                     </h2>
                     
-                    <div class="row multi-columns-row">
+                    <div class="row multi-columns-row"> -->
                         
                         <!-- Post Item -->
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
+                       <!--  <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
                             
                             <div class="post-prev-img">
                                 <a href="blog-single-sidebar-right.html"><img src="images/blog/post-prev-1.jpg" alt="" /></a>
@@ -788,11 +788,11 @@
                                 <a href="default.htm" class="btn btn-mod btn-gray btn-round">Read More <i class="fa fa-angle-right"></i></a>
                             </div>
                             
-                        </div>
+                        </div> -->
                         <!-- End Post Item -->
                         
                         <!-- Post Item -->
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
+                     <!--    <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
                             
                             <div class="post-prev-img">
                                 <a href="blog-single-sidebar-right.html"><img src="images/blog/post-prev-2.jpg" alt="" /></a>
@@ -815,11 +815,11 @@
                                 <a href="default.htm" class="btn btn-mod btn-gray btn-round">Read More <i class="fa fa-angle-right"></i></a>
                             </div>
                             
-                        </div>
+                        </div> -->
                         <!-- End Post Item -->
                         
                         <!-- Post Item -->
-                        <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.3s" data-wow-duration="2s">
+                     <!--    <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.3s" data-wow-duration="2s">
                             
                             <div class="post-prev-img">
                                 <a href="blog-single-sidebar-right.html"><img src="images/blog/post-prev-3.jpg" alt="" /></a>
@@ -842,13 +842,13 @@
                                 <a href="default.htm" class="btn btn-mod btn-gray btn-round">Read More <i class="fa fa-angle-right"></i></a>
                             </div>
                             
-                        </div>
+                        </div> -->
                         <!-- End Post Item -->
                         
-                    </div>
+               <!--      </div>
                     
                 </div>
-            </section>
+            </section> -->
             <!-- End Blog Section -->
             
             
