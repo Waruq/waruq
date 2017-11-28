@@ -384,11 +384,11 @@
                             <div class="tab-content tpl-minimal-tabs-cont section-text align-center">
                                 
                                 <div class="tab-pane fade in active" id="mini-one">
-                                   we are on the path of connecting more people into the new era of digital world to make people more smarter and happier. Everyone who gets the benefits of Yarddiant service should have the ability to handle every digital aspect.
+                                    Our sole aim is to deliver exceptional products and services to our esteemed clienteles and further engage in exploring and exploiting opportunities for a better tomorrow.
                                 </div>
                                 
                                 <div class="tab-pane fade" id="mini-two">
-                                  We work with immense passion and dedication to create a digital connection with the people and The areas connected with them. Every time we produce our best functional result to lead a socially-conscious business.
+                                  We aim to become better with changing dimensions in the world of technology so that all your needs are satisfied under a single roof.
                                 </div>
                                 
                                 <div class="tab-pane fade" id="mini-three">

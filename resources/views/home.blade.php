@@ -390,10 +390,14 @@
                         <div class="col-sm-3">
                             <div class="alt-features-item align-center">
                                 <div class="alt-features-descr align-left">
-                                    <h4 class="mt-0 font-alt">Work process</h4>
-                                    Lorem ipsum dolor sit amet, c-r adipiscing elit. 
-                                    In maximus ligula semper metus pellentesque mattis. 
-                                    Maecenas  volutpat, diam enim.
+                                    <h4 class="mt-0 font-alt">Work Process</h4>
+                                    Got an Idea? Tell us. 
+                                    We at Waruq have a subtle, 
+                                    yet creative approach towards 
+                                    getting things done so that all your 
+                                    needs and requirements are met to perfection.  
+                                    Our staunch customer-oriented work beliefs aid us in serving you better.
+                                    
                                 </div>
                             </div>
                         </div>
@@ -559,9 +563,10 @@
                                 </div>
                                 <h3 class="alt-features-title font-alt">We’re Creative</h3>
                                 <div class="alt-features-descr align-left">
-                                    Lorem ipsum dolor sit amet, c-r adipiscing elit. 
-                                    In maximus ligula semper metus pellentesque mattis. 
-                                    Maecenas  volutpat, diam enim.
+                                We are best at what we do. We offer esteemed clienteles
+                                with nothing, but the best.  Waruq is fuelled by zealous 
+                                and tireless team members who put forward efforts to make 
+                                anything possible. What we offer is a promise of uncompromising quality.
                                 </div>
                             </div>
                         </div>
@@ -573,11 +578,13 @@
                                 <div class="alt-features-icon">
                                     <span class="icon-clock"></span>
                                 </div>
-                                <h3 class="alt-features-title font-alt">We’re Punctual</h3>
+                                <h3 class="alt-features-title font-alt">We’re Professionals</h3>
                                 <div class="alt-features-descr align-left">
-                                    Proin fringilla augue at maximus vestibulum. 
-                                    Nam pulvinar vitae neque et porttitor. Praesent sed 
-                                    nisi eleifend, lorem fermentum orci sit amet, iaculis libero.
+                                Waruq stands on the bedrock professionalism. 
+                                Our business model is framed by utterly considering
+                                mindset of esteemed clients. Whatever your needs are, 
+                                we have a distinguished solution for you.
+                                
                                 </div>
                             </div>
                         </div>
@@ -589,11 +596,12 @@
                                 <div class="alt-features-icon">
                                     <span class="icon-hotairballoon"></span>
                                 </div>
-                                <h3 class="alt-features-title font-alt">We have magic</h3>
+                                <h3 class="alt-features-title font-alt">We're Punctual</h3>
                                 <div class="alt-features-descr align-left">
-                                    Curabitur iaculis accumsan augue, nec finibus mauris pretium eu. 
-                                    Duis placerat ex gravida nibh tristique porta. Nulla facilisi. 
-                                    Suspendisse ultricies eros blandit.
+                                The above sentence says it all. At Waruq, 
+                                we value your time. Our team is highly effective
+                                and leaves no stone unturned to deliver conventional
+                                 products way before deadlines. We perform to outperform limitations.
                                 </div>
                             </div>
                         </div>
@@ -639,9 +647,10 @@
                                 </div>
                                 <h3 class="alt-features-title font-alt">We're Friendly</h3>
                                 <div class="alt-features-descr align-left">
-                                    Pulvinar vitae neque et porttitor. Integer non dapibus diam, ac 
-                                    eleifend lectus. Praesent sed nisi eleifend, fermentum orci sit 
-                                    amet, iaculis libero interdum.
+                                We don’t just work for you; we care about all your needs.
+                                At Waruq, every client is treated with professional amiability; 
+                                we value your ideas like you do.
+                                
                                 </div>
                             </div>
                         </div>

@@ -76,9 +76,11 @@
                             <div class="alt-features-item align-center">
                                 <div class="alt-features-descr align-left">
                                     <h4 class="mt-0 font-alt">Work process</h4>
-                                    Lorem ipsum dolor sit amet, c-r adipiscing elit. 
-                                    In maximus ligula semper metus pellentesque mattis. 
-                                    Maecenas  volutpat, diam enim.
+                                    Got an Idea? Tell us. We at Waruq have a subtle, 
+                                    yet creative approach towards getting things done 
+                                    so that all your needs and requirements are met to perfection.  
+                                    Our staunch customer-oriented work beliefs aid us in serving you better.
+                                    
                                 </div>
                             </div>
                         </div>
@@ -144,8 +146,10 @@
                                 <div class="banner-content">
                                     <h3 class="banner-heading font-alt">Looking for exclusive digital services?</h3>
                                     <div class="banner-decription">
-                                        Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor. 
-                                        Integer non dapibus diam, ac eleifend lectus.
+                                    Whatever may be your requirement - be it a simple website design, 
+                                    a complex data driven web application development, an ecommerce website, 
+                                    a native or cross platform mobile app development, a logo and brand identity design, 
+                                    a video production or a full fledged digital marketing campaign - we have a solution for you. 
                                     </div>
                                     <div>
                                         <a href="#" class="btn btn-mod btn-w btn-medium btn-round">Lets talk</a>
@@ -178,11 +182,10 @@
                                 <h4 class="mt-0 font-alt">Why choose us?</h4>
                                 
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas  volutpat, diam enim sagittis quam. 
-                                    Aliquam elementum tellus non erat porttitor mollis. Morbi viverra sollicitudin nisl eu sodales.
-                                </p>
-                                <p>
-                                    Etiam sit amet fringilla lacus. Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero.
+                                We are best at what we do. We offer esteemed clienteles with nothing, but the best.  
+                                Waruq is fuelled by zealous and tireless team members who put forward efforts to make anything possible. 
+                                What we offer is a promise of uncompromising quality.
+                                
                                 </p>
                             </div>
                             
@@ -194,19 +197,19 @@
                                         <a href="default.htm"><i class="fa fa-users"></i> We are professionals</a>
                                     </dt>
                                     <dd>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
+                                    Waruq stands on the bedrock professionalism. Our business model is framed by utterly considering mindset of esteemed clients. Whatever your needs are, we have a distinguished solution for you.
                                     </dd>
                                     <dt>
                                         <a href="default.htm"><i class="fa fa-clock-o"></i> We are punctual</a>
                                     </dt>
                                     <dd>
-                                        Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
+                                    The above sentence says it all. At Waruq, we value your time. Our team is highly effective and leaves no stone unturned to deliver conventional products way before deadlines. We perform to outperform limitations.
                                     </dd>
                                     <dt>
                                         <a href="default.htm"><i class="fa fa-heart"></i> We are friendly</a>
                                     </dt>
                                     <dd>
-                                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna.
+                                    We don’t just work for you; we care about all your needs.  At Waruq, every client is treated with professional amiability; we value your ideas like you do.
                                     </dd>
                                 </dl>
                                 <!-- End Accordion -->
