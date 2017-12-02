@@ -63,7 +63,17 @@
             </section>
             <!-- End Head Section -->
 
-                                @if(Session::has('success')) 
+
+
+
+                   
+
+                               
+            
+            <!-- Contact Section -->
+            <section class="page-section" id="contact">
+                <div class="container relative">
+                     @if(Session::has('success')) 
                  
                      <div class="alert success">
                                 <i class="fa fa-lg fa-check-circle-o"></i> {{Session::get('success')}}
@@ -79,11 +89,6 @@
                                     @endforeach
                                
                     @endif
-            
-            <!-- Contact Section -->
-            <section class="page-section" id="contact">
-                <div class="container relative">
-                    
                     <h2 class="section-title font-alt mb-70 mb-sm-40">
                         Have a questions?
                     </h2>

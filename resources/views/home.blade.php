@@ -50,9 +50,9 @@
                             </h2>
                             
                             <div class="local-scroll">
-                                <a href="#about" class="btn btn-mod btn-w btn-medium btn-round hidden-xs">See More</a>
+                                <a href="/about" class="btn btn-mod btn-w btn-medium btn-round hidden-xs">See More</a>
                                 <span class="hidden-xs">&nbsp;</span>
-                                <a href="../../https@vimeo.com/79802823" class="btn btn-mod btn-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a>
+                               <!--  <a href="../../https@vimeo.com/79802823" class="btn btn-mod btn-w btn-medium btn-round lightbox mfp-iframe">Play Reel</a> -->
                             </div>
                             
                         </div>
@@ -75,7 +75,7 @@
                     <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                         About Waruq
                         
-                        <a href="#" class="section-more right">More about us <i class="fa fa-angle-right"></i></a>
+                        <a href="/about" class="section-more right">More about us <i class="fa fa-angle-right"></i></a>
                         
                     </h2>
                     
@@ -337,9 +337,9 @@
                     </div>
                     <!-- End Tab panes -->
                     
-                    <div class="align-center">
+                   <!--  <div class="align-center">
                         <a href="pages-services-1.html" class="section-more font-alt">View all services <i class="fa fa-angle-right"></i></a>
-                    </div>
+                    </div> -->
                     
                 </div>
             </section>
@@ -529,7 +529,7 @@
             
             
             <!-- Call Action Section -->
-            <section class="small-section bg-dark">
+          <!--   <section class="small-section bg-dark">
                 <div class="container relative">
                     
                     <div class="align-center">
@@ -540,7 +540,7 @@
                     </div>
                     
                 </div>
-            </section>
+            </section> -->
             <!-- End Call Action Section -->
             
             
@@ -664,87 +664,7 @@
             <!-- End Features Section -->
             
             
-            <!-- Testimonials Section -->
-            <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="images/full-width-images/section-bg-3.jpg">
-                
-                <!-- Slide Item -->
-                <div>
-                    <div class="container relative">
-                        <div class="row">
-                            <div class="col-md-8 col-md-offset-2 align-center">
-                                <!-- Section Icon -->
-                                <div class="section-icon">
-                                    <span class="icon-quote"></span>
-                                </div>
-                                <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
-                                <blockquote class="testimonial white">
-                                    <p>
-                                        Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-                                        risus utaliquam dapibus. Thanks!
-                                    </p>
-                                    <footer class="testimonial-author">
-                                        John Doe, doodle inc.
-                                    </footer>
-                                </blockquote>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Slide Item -->
-                
-                <!-- Slide Item -->
-                <div>
-                    <div class="container relative">
-                        <div class="row">
-                            <div class="col-md-8 col-md-offset-2 align-center">
-                                <!-- Section Icon -->
-                                <div class="section-icon">
-                                    <span class="icon-quote"></span>
-                                </div>
-                                <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
-                                <blockquote class="testimonial white">
-                                    <p>
-                                        Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-                                        risus utaliquam dapibus. Thanks!
-                                    </p>
-                                    <footer class="testimonial-author">
-                                        John Doe, doodle inc.
-                                    </footer>
-                                </blockquote>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Slide Item -->
-                
-                <!-- Slide Item -->
-                <div>
-                    <div class="container relative">
-                        <div class="row">
-                            <div class="col-md-8 col-md-offset-2 align-center">
-                                <!-- Section Icon -->
-                                <div class="section-icon">
-                                    <span class="icon-quote"></span>
-                                </div>
-                                <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
-                                <blockquote class="testimonial white">
-                                    <p>
-                                        Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-                                        risus utaliquam dapibus. Thanks!
-                                    </p>
-                                    <footer class="testimonial-author">
-                                        John Doe, doodle inc.
-                                    </footer>
-                                </blockquote>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Slide Item -->
-                
-            </section>
-            <!-- End Testimonials Section -->
-            
+         
             
           
             
@@ -861,39 +781,7 @@
             <!-- End Blog Section -->
             
             
-            <!-- Newsletter Section -->
-            <section class="small-section bg-gray-lighter">
-                <div class="container relative">
-                    
-                    <form class="form align-center" id="mailchimp">
-                        <div class="row">
-                            <div class="col-md-8 col-md-offset-2">
-                                
-                                <div class="newsletter-label font-alt">
-                                    Stay informed with our newsletter
-                                </div>
-                                
-                                <div class="mb-20">
-                                    <input placeholder="Enter Your Email" class="newsletter-field form-control input-md round mb-xs-10" type="email" pattern=".{5,100}" required/>
-                                    
-                                    <button type="submit" class="btn btn-mod btn-medium btn-round mb-xs-10">
-                                        Subscribe
-                                    </button>
-                                </div>
-                                
-                                <div class="form-tip">
-                                    <i class="fa fa-info-circle"></i> Please trust us, we will never send you spam
-                                </div>
-                                
-                                <div id="subscribe-result"></div>
-                                
-                            </div>
-                        </div>
-                    </form>
-                    
-                </div>
-            </section>
-            <!-- End Newsletter Section -->
+       
             
             
             <!-- Contact Section -->
@@ -919,7 +807,7 @@
                                             Call Us
                                         </div>
                                         <div class="ci-text">
-                                            +61 3 8376 6284
+                                           7006926109
                                         </div>
                                     </div>
                                 </div>
@@ -935,7 +823,7 @@
                                             Address
                                         </div>
                                         <div class="ci-text">
-                                            245 Quigley Blvd, Ste K
+                                           Maisuma Near Professional Couriers, Lal Chowk, Srinagar 190001
                                         </div>
                                     </div>
                                 </div>
@@ -951,7 +839,7 @@
                                             Email
                                         </div>
                                         <div class="ci-text">
-                                            <a href="mailto:support@bestlooker.pro">support@bestlooker.pro</a>
+                                            <a href="mailto:info@waruq.com">info@waruq.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -974,7 +862,7 @@
                     <div class="align-center">
                         <h3 class="banner-heading font-alt">Want to discuss your new project?</h3>
                         <div>
-                            <a href="default.htm" class="btn btn-mod btn-w btn-medium btn-round">Lets tallk</a>
+                            <a href="/contact" class="btn btn-mod btn-w btn-medium btn-round">Lets tallk</a>
                         </div>
                     </div>
                     
