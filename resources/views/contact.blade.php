@@ -140,7 +140,7 @@
                                             Email
                                         </div>
                                         <div class="ci-text">
-                                            <a href="mailto:info@waruq.com">info@waruq.com</a>
+                                        <a href="mailto:waruq@outlook.com">waruq@outlook.com</a>
                                         </div>
                                     </div>
                                 </div>
