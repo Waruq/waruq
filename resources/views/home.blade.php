@@ -825,7 +825,7 @@
                                             Address
                                         </div>
                                         <div class="ci-text">
-                                           Maisuma Near Professional Couriers, Lal Chowk, Srinagar 190001
+                                         Virtually Everywhere
                                         </div>
                                     </div>
                                 </div>
