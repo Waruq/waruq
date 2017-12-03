@@ -615,9 +615,10 @@
                                 </div>
                                 <h3 class="alt-features-title font-alt">We love minimalism</h3>
                                 <div class="alt-features-descr align-left">
-                                    Cras luctus interdum sodales. Quisque quis odio dui. Sedes sit 
-                                    amet neque malesuada, lobortis  commodo magna ntesque pharetra 
-                                    metus vivera sagittis.
+                                Waruq is embellished with subtle flavor of Minimallism.
+                                We focus on what  realy is significant and of great value to our clients.
+                                Among  thoroughly evaluated alternatives we opt for the one that is non-frivolous
+                                so that you get what your really deserve.
                                 </div>
                             </div>
                         </div>
@@ -631,9 +632,10 @@
                                 </div>
                                 <h3 class="alt-features-title font-alt">We’re responsible</h3>
                                 <div class="alt-features-descr align-left">
-                                    Fusce aliquet quam eget neque ultrices elementum. Nulla posuere 
-                                    felis id arcu blandit sagittis. Eleifender vestibulum purus, sit 
-                                    amet vulputate risus.
+                                Waruq believes in adhering to legal norms that are governed by International bodies.
+                                Under no we shall compromise on our work ethics. We have a stalwart attitude towards 
+                                Corporate Social Responsibility, under which we tend to empower and contribute towards
+                                a better society
                                 </div>
                             </div>
                         </div>
