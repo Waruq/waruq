@@ -47,7 +47,7 @@
                         <div class="col-md-8">
                             <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Contact</h1>
                             <div class="hs-line-4 font-alt">
-                              Contact us for quote!
+                              Contact us for a quote!
                             </div>
                         </div>
                         
@@ -90,7 +90,7 @@
                                
                     @endif
                     <h2 class="section-title font-alt mb-70 mb-sm-40">
-                        Have a questions?
+                        Have a question?
                     </h2>
                     
                     <div class="row mb-60 mb-xs-40">
