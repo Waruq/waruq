@@ -47,7 +47,7 @@
                         <div class="col-md-8">
                             <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">About Us</h1>
                             <div class="hs-line-4 font-alt">
-                                Extraordinary work ethic to deliver creative results
+                                Extraordinary work ethics to deliver creative results
                             </div>
                         </div>
                         
