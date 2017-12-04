@@ -124,7 +124,7 @@
                                             Address
                                         </div>
                                         <div class="ci-text">
-                                          Virtuall Everywhere
+                                          Virtually Everywhere
                                         </div>
                                     </div>
                                 </div>
