@@ -10,9 +10,9 @@ class ContactController extends Controller
    public function contact(Request $request){
 
    		$this->validate($request,[
-			'name'=>'required|min:4',
+			'name'=>'required|min:4|regex:/^[\pL\s\-]+$/u',
 			'email'=>'required|email',
-			'number'=>'required',
+			'contact'=>'required|numeric|digits_between:10,12',
 			'message'=>'required',
 		]);
 

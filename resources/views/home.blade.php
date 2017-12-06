@@ -841,7 +841,7 @@
                                             Email
                                         </div>
                                         <div class="ci-text">
-                                            <a href="mailto:waruq@outlook.com">waruq@outlook.com</a>
+                                            <a href="mailto:waruq@outlook.com">info@waruq.com</a>
                                         </div>
                                     </div>
                                 </div>

@@ -140,7 +140,7 @@
                                             Email
                                         </div>
                                         <div class="ci-text">
-                                        <a href="mailto:waruq@outlook.com">waruq@outlook.com</a>
+                                        <a href="mailto:waruq@outlook.com">contact@waruq.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -170,7 +170,7 @@
                                             <input type="email" name="email" id="email" class="input-md round form-control" placeholder="Email" pattern=".{5,100}" required>
                                         </div>
                                         <div class="form-group">
-                                            <input type="text" name="number" id="email" class="input-md round form-control" placeholder="Contact No" pattern=".{5,100}" required>
+                                            <input type="text" name="contact" id="email" class="input-md round form-control" placeholder="Contact No" pattern=".{5,100}" required>
                                         </div>
                                         
                                         
